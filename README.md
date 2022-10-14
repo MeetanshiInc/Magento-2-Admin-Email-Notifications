@@ -26,6 +26,6 @@ The extension helps in efficient administration and is a time saver tool that al
 * Administration task made easy and efficient.
 * Easy to implement for time-saving approach.
 
-For more information, visit [https://meetanshi.com/magento-2-admin-email-notifications.html](https://meetanshi.com/magento-2-admin-email-notifications.html)
+For more information, visit ***[https://meetanshi.com/magento-2-admin-email-notifications.html](https://meetanshi.com/magento-2-admin-email-notifications.html)***
 
 
